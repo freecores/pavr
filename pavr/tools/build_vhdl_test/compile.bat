@@ -1,1 +1,0 @@
-bcc32 build_vhdl_test.c ../common/tagScan.c
